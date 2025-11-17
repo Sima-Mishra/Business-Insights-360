@@ -2,7 +2,7 @@
 # Business-Insights-360
 
 
-[PowerBI Link](https://bit.ly/4gkfp8y)
+[PowerBI Link](https://app.powerbi.com/view?r=eyJrIjoiYzFjOGEwMGEtNWU0MC00YWMzLWE1Y2QtNTNiYWMyOTUzNmNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 [Dashboard Video](https://1drv.ms/v/c/2449c1e3aabe59cb/EQc6ZWsh96FDv5eOYCwRFbUBmmIvauCOdL6P35bboa-Eow)
 
